@@ -9,6 +9,8 @@ Workshop run by Bethany Radcliff and Kylie Warkentin of AudiAnnotate
 
 ## About the Workshop
 
+June 17, 2021 | 2-4pm ET
+
 This workshop, put on by AudiAnnotate, seeks to share the pedagogy tools we are developing with SpokenWeb. This workshop will introduce attendees to ideas we have for using AUdiAnnotate in classroom (or group) settings. 
 
 
