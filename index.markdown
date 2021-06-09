@@ -14,6 +14,7 @@ June 17, 2021 | 2-4pm ET
 This workshop, hosted by AudiAnnotate, shares the pedagogy tools we are developing. This workshop will introduce attendees to ideas we have for using AudiAnnotate in classroom (or group) settings. 
 
 ---
+
 **## Workshop Agenda**
 
 *Note: If you would like to participate in the guided walkthrough, feel free to bring a link to an audio or video recording. The link should be a direct link to an mp3 or mp4 recording, ending in .mp3 or .mp4. If you don’t have an audio or video link, we will have sample audio available.*
@@ -37,6 +38,7 @@ This workshop, hosted by AudiAnnotate, shares the pedagogy tools we are developi
 3:15-3:50: Guided project walkthrough for setting up classroom activity 
 
 3:50-4:00: Q&A
+
 ---
 
 
