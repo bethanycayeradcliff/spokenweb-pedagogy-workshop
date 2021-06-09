@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "SpokenWeb Pedagogy Workshop" ] },
+    "summary": { "en": [ "Sandbox and resources for the SpokenWeb Pedagogy Workshop on June 17, 2021" ] },
+    "items": [
+    ]
+}
