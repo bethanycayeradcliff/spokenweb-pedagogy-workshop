@@ -11,7 +11,7 @@ Workshop run by Bethany Radcliff and Kylie Warkentin of AudiAnnotate
 
 June 17, 2021 | 2-4pm ET
 
-This workshop, put on by AudiAnnotate shares the pedagogy tools we are developing. This workshop will introduce attendees to ideas we have for using AUdiAnnotate in classroom (or group) settings. 
+This workshop, put on by AudiAnnotate shares the pedagogy tools we are developing. This workshop will introduce attendees to ideas we have for using AudiAnnotate in classroom (or group) settings. 
 
 
 ## Workshop Agenda
