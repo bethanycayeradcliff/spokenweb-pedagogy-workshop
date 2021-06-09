@@ -5,6 +5,13 @@
 layout: home
 ---
 
+Workshop run by Bethany Radcliff and Kylie Warkentin of AudiAnnotate
+
+## About the Workshop
+
+This workshop, put on by AudiAnnotate, seeks to share the pedagogy tools we are developing with SpokenWeb. This workshop will introduce attendees to ideas we have for using AUdiAnnotate in classroom (or group) settings. 
+
+
 ## Workshop Agenda
 
 Note: If you would like to participate in the guided walkthrough, feel free to bring a link to an audio or video recording. The link should be a direct link to an mp3 or mp4 recording, ending in .mp3 or .mp4. If you don’t have an audio or video link, we will have sample audio available. 
