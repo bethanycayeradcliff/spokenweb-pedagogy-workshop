@@ -14,7 +14,7 @@ This workshop, put on by AudiAnnotate, seeks to share the pedagogy tools we are 
 
 ## Workshop Agenda
 
-Note: If you would like to participate in the guided walkthrough, feel free to bring a link to an audio or video recording. The link should be a direct link to an mp3 or mp4 recording, ending in .mp3 or .mp4. If you don’t have an audio or video link, we will have sample audio available. 
+*Note: If you would like to participate in the guided walkthrough, feel free to bring a link to an audio or video recording. The link should be a direct link to an mp3 or mp4 recording, ending in .mp3 or .mp4. If you don’t have an audio or video link, we will have sample audio available.*
  
 2:00-2:10: Intro to AudiAnnotate 
 
