@@ -12,3 +12,6 @@ using HTML or markdown.  Do not modify this file above this line -->
 [Example Sensitive Audio Lesson: John Beecher, McComb “Criminal Syndicalism” Case](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/)
 
 
+[AudiAnnotate Workflow Documentation and Demonstration Videos](https://hipstas.github.io/AudiAnnotate/documentation.html)
+
+
