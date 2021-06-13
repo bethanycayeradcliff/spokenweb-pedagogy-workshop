@@ -58,7 +58,7 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 
 ### Part 4: Creating and Preparing to Upload Annotations<a name="four"></a>
  
- - Our formatted google sheet is a great resource to share with your students. (*** link to sheet)
+ - Our [formatted google sheet](https://docs.google.com/spreadsheets/u/1/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0) is a great resource to share with your students.
  - Annotations can be easily created in google sheets or excel. Students can work in groups or individually, then download the file as a .tsv. 
  - If you have added students to the GitHub project, they can upload to the shared project on their own. If not, they can share their annotation files with you, and you can upload them. 
 
