@@ -12,7 +12,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media
 
 
-### Part 2: Setting up Your Classroom Project
+### Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item
 
 The AudiAnnotate application uses GitHub to access data and build project repositories. It does not store data, but rather, allows you to interact easily with data in GitHub through our application interface. To do this, AA creates a IIIF manifest that is stored in GitHub. This manifest includes the information you will provide when you build your project, upload a URL to an audiovisual item and associated metadata, and add annotation layers.
 
@@ -28,3 +28,21 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 - Add a description of your project.
 - Add a project slug. This becomes the GitHub repository url. Note, spaces are not recognized. Please use hyphens instead of spaces.
 4. Select “Create Project.”This contacts GitHub and generates the repository. Now you have created an AudiAnnotate project, with all information stored in a GitHub repository. The next step will be to build the IIIF Manifest, which allows you to associate audiovisual material and annotations with your project.
+
+#### Adding an Audiovisual Item
+ 5\. On the Audio Files page, select “Create Item Manifest.” This creates a new item in the IIIF manifest associated with your project. This is where you will add metadata for your audiovisual material.
+ 
+- Add a label for your audiovisual file. The label refers to the title of the audiovisual material to which you will be providing a URL and should be human-readable.
+    
+- Add “Audio File URL.” This is the direct link to the audiovisual file.If you need to create a link, see our [Supplemental Documentation](#supplemental) below.
+    
+ - Add the duration of your audiovisual file. Duration can be input in minutes:seconds or hours:minutes:seconds. 
+    
+ - Item Homepage URL is the item page where the audiovisual material was retrieved. This, and the fields below, will add provenance metadata to the IIIF manifest.
+    
+ - Provider name is the organization that made the recording available.
+    
+ - Provider URL is a link to the organization that made this audiovisual material available.
+    
+
+ 6\. Once metadata has been added, select “Save” to save reference and metadata to this item in the IIF manifest.
