@@ -54,6 +54,7 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 
  6\. Once metadata has been added, select “Save” to save reference and metadata to this item in the IIF manifest.
  
+ 
  ### Part 3: Sharing the Project with Students <a name="three"></a>
  
  ### Part 4: Creating and Preparing to Upload Annotations <a name="four"></a>
