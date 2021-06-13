@@ -43,17 +43,16 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
     
 - Add “Audio File URL.” This is the direct link to the audiovisual file.
     
- - Add the duration of your audiovisual file. Duration can be input in minutes:seconds or hours:minutes:seconds. 
+- Add the duration of your audiovisual file. Duration can be input in minutes:seconds or hours:minutes:seconds. 
     
- - Item Homepage URL is the item page where the audiovisual material was retrieved. This, and the fields below, will add provenance metadata to the IIIF manifest.
+- Item Homepage URL is the item page where the audiovisual material was retrieved. This, and the fields below, will add provenance metadata to the IIIF manifest.
     
- - Provider name is the organization that made the recording available.
+- Provider name is the organization that made the recording available.
     
- - Provider URL is a link to the organization that made this audiovisual material available.
+- Provider URL is a link to the organization that made this audiovisual material available.
     
 
  6\. Once metadata has been added, select “Save” to save reference and metadata to this item in the IIF manifest.
- 
  
  ### Part 3: Sharing the Project with Students <a name="three"></a>
  
