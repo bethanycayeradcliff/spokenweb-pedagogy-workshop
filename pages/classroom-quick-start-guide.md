@@ -13,7 +13,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ---
 
-### **Part 1: Selecting Audio or Video**<a name="one"></a>
+### <b>Part 1: Selecting Audio or Video</b><a name="one"></a>
 - AudiAnnotate supports direct links to audio or video (the url will typically end in .mp3 or .mp4). You can also use audio or video uploaded to Internet Archive (with a direct link) and audio hosted on the cloud software Wasabi. Spokenweb audio also works!
 - Be mindful of the media you choose. Add a content warning if appropriate, provide a summary, and provide context.
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media
