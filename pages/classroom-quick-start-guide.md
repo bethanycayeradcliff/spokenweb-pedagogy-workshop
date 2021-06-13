@@ -14,6 +14,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ### Part 2: Setting up Your Classroom Project
 
+The AudiAnnotate application uses GitHub to access data and build project repositories. It does not store data, but rather, allows you to interact easily with data in GitHub through our application interface. To do this, AA creates a IIIF manifest that is stored in GitHub. This manifest includes the information you will provide when you build your project, upload a URL to an audiovisual item and associated metadata, and add annotation layers.
+
 1. You will need to have a GitHub account. To create an account on GitHub:
 - Navigate to GitHub.
 - You will provide a username, email address, and password to create your GitHub account.
