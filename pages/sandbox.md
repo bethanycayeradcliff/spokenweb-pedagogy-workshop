@@ -10,4 +10,4 @@ This page will serve as an interactive project, where you can create and upload 
 
 Links to sample audio can be found here: ***
 
-You can copy [this google doc](***), add annotations, then download it as a tsv to upload to AudiAnnotate
+You can copy [this google doc](https://docs.google.com/spreadsheets/u/1/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0), add annotations, then download it as a tsv to upload to AudiAnnotate
