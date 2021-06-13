@@ -51,17 +51,15 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 
 - Provider URL is a link to the organization that made this audiovisual material available.
 
- 6\. Once metadata has been added, select “Save” to save reference and metadata to this item in the IIIF manifest.<br>
+ 6\. Once metadata has been added, select “Save” to save reference and metadata to this item in the IIIF manifest.
  
- ### Part 3: Sharing the Project with Students<a name="three"></a>
- 
- 
- ### Part 4: Creating and Preparing to Upload Annotations<a name="four"></a>
+### Part 3: Sharing the Project with Students<a name="three"></a>
+
+### Part 4: Creating and Preparing to Upload Annotations<a name="four"></a>
  
  - Our formatted google sheet is a great resource to share with your students. (*** link to sheet)
  - Annotations can be easily created in google sheets or excel. Students can work in groups or individually, then download the file as a .tsv. 
  - If you have added students to the GitHub project, they can upload to the shared project on their own. If not, they can share their annotation files with you, and you can upload them. 
- 
- 
- ### Part 5: Uploading Annotations<a name="five"></a>
+
+### Part 5: Uploading Annotations<a name="five"></a>
  
