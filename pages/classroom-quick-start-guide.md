@@ -34,7 +34,7 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
  
 - Add a label for your audiovisual file. The label refers to the title of the audiovisual material to which you will be providing a URL and should be human-readable.
     
-- Add “Audio File URL.” This is the direct link to the audiovisual file.If you need to create a link, see our [Supplemental Documentation](#supplemental) below.
+- Add “Audio File URL.” This is the direct link to the audiovisual file.
     
  - Add the duration of your audiovisual file. Duration can be input in minutes:seconds or hours:minutes:seconds. 
     
