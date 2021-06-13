@@ -36,8 +36,9 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 - Add a project slug. This becomes the GitHub repository url. Note, spaces are not recognized. Please use hyphens instead of spaces.
 4. Select “Create Project.”This contacts GitHub and generates the repository. Now you have created an AudiAnnotate project, with all information stored in a GitHub repository. The next step will be to build the IIIF Manifest, which allows you to associate audiovisual material and annotations with your project.
 
-#### Adding an Audiovisual Item
- 5\. On the Audio Files page, select “Create Item Manifest.” This creates a new item in the IIIF manifest associated with your project. This is where you will add metadata for your audiovisual material.
+***Adding an Audiovisual Item***<br>
+
+5\. On the Audio Files page, select “Create Item Manifest.” This creates a new item in the IIIF manifest associated with your project. This is where you will add metadata for your audiovisual material.
  
 - Add a label for your audiovisual file. The label refers to the title of the audiovisual material to which you will be providing a URL and should be human-readable.
 
