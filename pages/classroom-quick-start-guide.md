@@ -5,11 +5,13 @@ permalink: classroom-quick-start-guide
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
->[Step 1: Selecting Audio or Video](#one)
->[Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item](#two)  
->[Part 3: Sharing the Project with Students](#three)  
->[Part 4: Creating and Preparing to Upload Annotations](#four)  
->[Part 5: Uploading Annotations](#five)  
+[Step 1: Selecting Audio or Video](#one)
+[Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item](#two)  
+[Part 3: Sharing the Project with Students](#three)  
+[Part 4: Creating and Preparing to Upload Annotations](#four)  
+[Part 5: Uploading Annotations](#five)  
+
+---
 
 ### Part 1: Selecting Audio or Video <a name="one"></a>
 - AudiAnnotate supports direct links to audio or video (the url will typically end in .mp3 or .mp4). You can also use audio or video uploaded to Internet Archive (with a direct link) and audio hosted on the cloud software Wasabi. Spokenweb audio also works!
