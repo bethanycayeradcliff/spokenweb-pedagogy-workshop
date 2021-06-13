@@ -23,9 +23,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ***Annotating with Hypothesis***
 
-1. Navigate to your AudiAnnotate project page. ([This is an example](https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/#?c=&m=&s=&cv=) GitHub Pages project page.)
+1\. Navigate to your AudiAnnotate project page. ([This is an example](https://tanyaclement.github.io/sexton_sweetbriar_1966/pages/anne-sexton-class-visit-at-sweetbriar-college-1966.html#?c=&m=&s=&cv=) GitHub Pages project page.)
 
-2. Select the Hypothesis bookmarklet. 
+2\. Select the Hypothesis bookmarklet. 
 
 3\. Select the arrow on the right side of your screen to expand your view.
 
