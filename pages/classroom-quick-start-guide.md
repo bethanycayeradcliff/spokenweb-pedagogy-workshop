@@ -13,13 +13,13 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ---
 
-## Part 1: Selecting Audio or Video <a name="one"></a>
+### Part 1: Selecting Audio or Video <a name="one"></a>
 - AudiAnnotate supports direct links to audio or video (the url will typically end in .mp3 or .mp4). You can also use audio or video uploaded to Internet Archive (with a direct link) and audio hosted on the cloud software Wasabi. Spokenweb audio also works!
 - Be mindful of the media you choose. Add a content warning if appropriate, provide a summary, and provide context.
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media
 
 
-## Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item<a name="two"></a>
+### Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item<a name="two"></a>
 
 The AudiAnnotate application uses GitHub to access data and build project repositories. It does not store data, but rather, allows you to interact easily with data in GitHub through our application interface. To do this, AA creates a IIIF manifest that is stored in GitHub. This manifest includes the information you will provide when you build your project, upload a URL to an audiovisual item and associated metadata, and add annotation layers.
 
@@ -36,7 +36,7 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 - Add a project slug. This becomes the GitHub repository url. Note, spaces are not recognized. Please use hyphens instead of spaces.
 4. Select “Create Project.”This contacts GitHub and generates the repository. Now you have created an AudiAnnotate project, with all information stored in a GitHub repository. The next step will be to build the IIIF Manifest, which allows you to associate audiovisual material and annotations with your project.
 
-### Adding an Audiovisual Item
+#### Adding an Audiovisual Item
 
 5\. On the Audio Files page, select “Create Item Manifest.” This creates a new item in the IIIF manifest associated with your project. This is where you will add metadata for your audiovisual material.
  
@@ -54,13 +54,13 @@ You will be prompted to log in through GitHub. (Make sure to allow the app to au
 
  6\. Once metadata has been added, select “Save” to save reference and metadata to this item in the IIIF manifest.
  
-## Part 3: Sharing the Project with Students<a name="three"></a>
+### Part 3: Sharing the Project with Students<a name="three"></a>
 
-## Part 4: Creating and Preparing to Upload Annotations<a name="four"></a>
+### Part 4: Creating and Preparing to Upload Annotations<a name="four"></a>
  
  - Our formatted google sheet is a great resource to share with your students. (*** link to sheet)
  - Annotations can be easily created in google sheets or excel. Students can work in groups or individually, then download the file as a .tsv. 
  - If you have added students to the GitHub project, they can upload to the shared project on their own. If not, they can share their annotation files with you, and you can upload them. 
 
-## Part 5: Uploading Annotations<a name="five"></a>
+### Part 5: Uploading Annotations<a name="five"></a>
  
