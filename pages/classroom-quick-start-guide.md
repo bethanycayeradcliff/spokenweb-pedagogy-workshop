@@ -13,13 +13,13 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ---
 
-### <strong> Part 1: Selecting Audio or Video</strong><a name="one"></a>
+### Part 1: Selecting Audio or Video<a name="one"></a>
 - AudiAnnotate supports direct links to audio or video (the url will typically end in .mp3 or .mp4). You can also use audio or video uploaded to Internet Archive (with a direct link) and audio hosted on the cloud software Wasabi. Spokenweb audio also works!
 - Be mindful of the media you choose. Add a content warning if appropriate, provide a summary, and provide context.
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media
 
 
-### <strong>Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item</strong><a name="two"></a>
+### Part 2: Setting up Your Classroom Project and Adding Your Audiovisual Item<a name="two"></a>
 
 The AudiAnnotate application uses GitHub to access data and build project repositories. It does not store data, but rather, allows you to interact easily with data in GitHub through our application interface. To do this, AA creates a IIIF manifest that is stored in GitHub. This manifest includes the information you will provide when you build your project, upload a URL to an audiovisual item and associated metadata, and add annotation layers.
 
