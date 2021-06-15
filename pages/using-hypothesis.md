@@ -7,6 +7,10 @@ permalink: using-hypothesis
 using HTML or markdown.  Do not modify this file above this line -->
 
 [Hypothesis](https://web.hypothes.is/about/) is “a conversation layer over the entire web that works everywhere, without needing implementation by any underlying site.” Integrating Hypothesis with an AudiAnnotate project allows for a layer of commentary on top of AudiAnnotate annotations from multiple contributors. When annotating with Hypothesis, you can annotate in a group, individually, privately, or publicly.
+<br>
+
+### To join the Hypothesis group for today's workshop, click [here](https://hypothes.is/groups/zgbMD4L9/sw-workshop).
+<br>
 
 ***Creating a Hypothesis account***
 
