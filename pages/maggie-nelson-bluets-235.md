@@ -1,6 +1,6 @@
 ---
 layout: item
-title: sandbox
+title: Sandbox
 manifest_name: maggie-nelson-bluets-235
 permalink: maggie-nelson-bluets-235/
 external_manifest_url: 
