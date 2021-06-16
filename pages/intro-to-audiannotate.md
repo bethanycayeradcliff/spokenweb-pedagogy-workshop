@@ -9,4 +9,3 @@ To annotate is to add comments to an object. To audiate is to sense the meaning 
 
 The AudiAnnotate project’s goal is to make audio and its interpretations more discoverable and usable by extending the use of the newest IIIF (International Image Interoperability Framework) standard for audio with the development of the AudiAnnotate web application, documented workflows and workshops that will facilitate the use of existing best-of-breed, open source tools for audio annotation (Sonic Visualiser), for public code and document repositories (GitHub), and audio presentation (Universal Viewer) to produce, publish, and sustain shareable W3C Web Annotations for individual and collaborative audio projects.
 
-[something about AudiAnnotate as a classroom resource]
