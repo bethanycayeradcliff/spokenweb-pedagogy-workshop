@@ -11,7 +11,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 
 
-Instructions on how to create a hypothesis account can be found in our documentation [here](https://hipstas.github.io/AudiAnnotate/documentation.html#collaborative)
+Instructions on how to create a hypothesis account can be found in our documentation [here](https://hipstas.github.io/AudiAnnotate/documentation.html#collaborative).
 <br>
 
 ### To join the Hypothesis group for today's workshop, click [here](https://hypothes.is/groups/zgbMD4L9/sw-workshop).
