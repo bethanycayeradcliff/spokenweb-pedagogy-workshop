@@ -10,7 +10,7 @@ Workshop run by Bethany Radcliff and Kylie Warkentin of AudiAnnotate
 
 ## About the Workshop
 
-June 17, 2021 | 2-4pm ET
+June 17, 2021 | 2-4pmET/1-3pmCT | [Zoom link](https://concordia-ca.zoom.us/j/87642375617?pwd=VURHaURtVzByT2VGZVYzTEtrMnJ6QT09)
 
 This workshop, hosted by AudiAnnotate, shares the pedagogy tools we are developing. This workshop will introduce attendees to ideas we have for using AudiAnnotate in classroom (or group) settings. 
 
