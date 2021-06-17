@@ -23,7 +23,7 @@ using HTML or markdown.  Do not modify this file above this line -->
   - Inclusion of a content warning
   - Appropriate context
   - Scaffolding lesson in a way that doesn’t overwhelm student/teacher with understanding audio, annotations, and using the application
-  - Virtual, hybrid, in person decisions
+  - Virtual, hybrid, or in person lesson/activities
   - Group vs. individual work
 
 
