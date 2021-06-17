@@ -26,10 +26,12 @@ This workshop, hosted by AudiAnnotate, shares the pedagogy tools we are developi
 2:10-2:20: Intro to AudiAnnotate pedagogy project
 
 2:20-2:35: Walkthrough of AudiAnnotate pedagogy guide 
+- [An Introduction to Annotating and Presenting Sensitive Audio Using AudiAnnotate](https://bethanycayeradcliff.github.io/sensitive-audio-lesson/)
 
 2:35-2:40: Q&A
 
 2:40-2:55: Walkthrough of AudiAnnotate student-facing guide 
+- [Example Sensitive Audio Lesson: John Beecher, McComb “Criminal Syndicalism” Case](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/)
 
 2:55-3:00: Q&A
 
