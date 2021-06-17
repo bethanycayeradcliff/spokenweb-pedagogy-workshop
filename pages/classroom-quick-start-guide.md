@@ -19,12 +19,12 @@ using HTML or markdown.  Do not modify this file above this line -->
 - Be mindful of the media you choose and the audience it will have (both in the classroom and online). Add a content warning if appropriate, provide a summary, and provide context.
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media.
 - Things you may want to consider: 
- - The presence of sensitive or disturbing content
- - Inclusion of a content warning
- - Appropriate context
- - Scaffolding lesson in a way that doesn’t overwhelm student/teacher with understanding audio, annotations, and using the application
- - Virtual, hybrid, in person decisions
- - Group vs. individual work
+  - The presence of sensitive or disturbing content
+  - Inclusion of a content warning
+  - Appropriate context
+  - Scaffolding lesson in a way that doesn’t overwhelm student/teacher with understanding audio, annotations, and using the application
+  - Virtual, hybrid, in person decisions
+  - Group vs. individual work
 
 
 
