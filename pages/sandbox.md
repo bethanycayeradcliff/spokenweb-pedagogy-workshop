@@ -13,4 +13,4 @@ If you would like to create and add annotations to the sample project, you can d
 
 Links to additional sample audio can be found **[here](https://writing.upenn.edu/pennsound/x/Nelson.php)**.
 
-You can copy **[this google doc](https://docs.google.com/spreadsheets/u/1/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0)**, add annotations, then download it as a .tsv to upload to AudiAnnotate
+You can copy **[this google doc](https://docs.google.com/spreadsheets/u/1/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0)**, add annotations, then download it as a .tsv, .csv, or .xlsx to upload to AudiAnnotate
