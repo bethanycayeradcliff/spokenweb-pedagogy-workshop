@@ -6,7 +6,7 @@ permalink: classroom-quick-start-guide
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 
-[Step 1: Selecting Your Audiovisual Item](#one)
+[Step 1: Selecting Your Audiovisual Item and Planning the Lesson](#one)
 
 [Step 2: Setting up Your Classroom Project and Adding Your Audiovisual Item](#two)  
 
@@ -14,7 +14,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 ---
 
-### **Step 1: Selecting Audio or Video**<a name="one"></a>
+### **Step 1: Selecting Your Audiovisual Item and Planning the Lesson**<a name="one"></a>
 - AudiAnnotate supports direct links to audio or video (the url will typically end in .mp3 or .mp4). You can also use audio or video uploaded to Internet Archive (with a direct link) and audio hosted on the cloud software Wasabi. Spokenweb audio also works!
 - Be mindful of the media you choose and the audience it will have (both in the classroom and online). Add a content warning if appropriate, provide a summary, and provide context.
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media.
