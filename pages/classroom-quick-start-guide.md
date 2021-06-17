@@ -18,6 +18,14 @@ using HTML or markdown.  Do not modify this file above this line -->
 - AudiAnnotate supports direct links to audio or video (the url will typically end in .mp3 or .mp4). You can also use audio or video uploaded to Internet Archive (with a direct link) and audio hosted on the cloud software Wasabi. Spokenweb audio also works!
 - Be mindful of the media you choose and the audience it will have (both in the classroom and online). Add a content warning if appropriate, provide a summary, and provide context.
 - Think about questions and discussions you might prompt in order to scaffold critical thinking and understanding of the chosen media.
+- Things you may want to consider: 
+ - The presence of sensitive or disturbing content
+ - Inclusion of a content warning
+ - Appropriate context
+ - Scaffolding lesson in a way that doesn’t overwhelm student/teacher with understanding audio, annotations, and using the application
+ - Virtual, hybrid, in person decisions
+ - Group vs. individual work
+
 
 
 ### **Step 2: Setting up Your Classroom Project and Adding Your Audiovisual Item(s)**<a name="two"></a>
